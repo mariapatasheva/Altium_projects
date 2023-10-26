@@ -207,6 +207,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEXXQVHP
 
+[Document11]
+DocumentPath=Project Outputs for REL_IRF_MEZ\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=Project Outputs for REL_IRF_MEZ\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.DRR
 DItemRevisionGUID=
@@ -224,30 +258,38 @@ DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GM1
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GTL
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GTO
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.LDP
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.REP
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.RUL
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
 DocumentPath=Project Outputs for REL_IRF_MEZ\REL_IRF_MEZ_v2.TXT
 DItemRevisionGUID=
 
@@ -539,7 +581,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16777217~1,16842751~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
