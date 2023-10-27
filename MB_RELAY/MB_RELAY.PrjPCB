@@ -106,55 +106,59 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.DRR
+DocumentPath=Project Outputs for MB_RELAY\Design Rule Check - MB_RELAY.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.EXTREP
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GBL
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GBO
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GBS
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GM1
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GTL
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GTO
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GTS
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.LDP
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.REP
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.RUL
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.TXT
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for MB_RELAY\MB_RELAY.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -420,7 +424,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
