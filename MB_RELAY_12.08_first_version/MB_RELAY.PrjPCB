@@ -207,6 +207,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUHFRGFP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MB_RELAY\Design Rule Check - MB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
