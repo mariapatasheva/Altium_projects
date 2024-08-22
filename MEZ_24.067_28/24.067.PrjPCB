@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HFGPVYEF
 
 [Document3]
-DocumentPath=..\AD libs\msp_Active.PcbLib
+DocumentPath=..\AD libs\msp\msp_Active.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,24 @@ GenerateClassCluster=0
 DocumentUniqueId=LNBTVYIH
 
 [Document4]
-DocumentPath=..\AD libs\msp_SchLib.SchLib
+DocumentPath=..\AD libs\msp\msp_Passive.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPBSNCOU
+
+[Document5]
+DocumentPath=..\AD libs\msp\msp_SchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
