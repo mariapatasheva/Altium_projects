@@ -74,10 +74,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCTKLGSM
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MEZ_ALL_IND\Design Rule Check - MEZ_ALL_IND.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
